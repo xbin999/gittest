@@ -1,4 +1,4 @@
 gittest
 =======
 
-A test repository. 
+A test repository. You can modify and commit it.
